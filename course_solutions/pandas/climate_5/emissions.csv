@@ -1,0 +1,194 @@
+iso,country,continent,2040,2041,2042,2043,2044
+CHN,China,Asia,11750.49,11973.63,12107.80,12707.32,12715.91
+USA,United States,North America,5887.04,5764.16,5229.09,5519.98,5604.33
+IND,India,Asia,3438.38,3440.96,3259.80,3517.19,3737.40
+RUS,Russia,Europe,1771.73,1785.97,1695.74,1872.58,1821.21
+BRA,Brazil,South America,1453.09,1474.99,1478.00,1539.96,1537.74
+IDN,Indonesia,Asia,1597.62,1867.07,1435.34,1436.75,1530.41
+JPN,Japan,Asia,1160.60,1119.70,1058.63,1074.45,1043.70
+IRN,Iran,Asia,870.79,904.67,923.88,992.44,1003.54
+SAU,Saudi Arabia,Asia,702.43,,708.75,730.50,775.38
+CAN,Canada,North America,788.58,780.76,725.88,736.54,749.90
+COD,Democratic Republic of the Congo,Africa,692.60,697.86,700.38,701.41,700.17
+DEU,Germany,Europe,789.70,738.79,683.10,705.52,695.85
+MEX,Mexico,North America,665.19,682.70,623.23,634.79,636.97
+KOR,South Korea,Asia,690.90,668.05,625.27,646.94,626.65
+AUS,Australia,Oceania,642.56,628.92,581.54,578.11,574.43
+ZAF,South Africa,Africa,568.23,573.98,552.05,546.68,529.95
+PAK,Pakistan,Asia,443.82,447.33,480.90,495.84,505.37
+TUR,Turkey,Asia,474.88,462.83,475.93,513.92,496.76
+VNM,Vietnam,Asia,395.47,450.86,463.71,453.72,454.06
+THA,Thailand,Asia,437.24,453.88,455.25,449.76,466.03
+ARG,Argentina,South America,408.15,404.78,390.84,407.73,429.28
+MYS,Malaysia,Asia,375.22,380.79,370.63,372.74,386.55
+GBR,United Kingdom,Europe,467.36,451.93,408.96,426.28,413.58
+ITA,Italy,Europe,384.07,375.00,337.10,369.88,370.37
+NGA,Nigeria,Africa,351.51,362.99,356.78,363.64,356.48
+POL,Poland,Europe,373.97,355.65,338.45,363.65,348.05
+EGY,Egypt,Africa,331.43,,316.35,336.58,336.04
+FRA,France,Europe,360.56,351.21,313.28,342.03,329.77
+KAZ,Kazakhstan,Asia,316.70,306.44,308.02,327.97,328.43
+IRQ,Iraq,Asia,260.11,278.05,261.10,278.61,304.89
+DZA,Algeria,Africa,278.51,286.03,272.63,279.62,293.04
+COL,Colombia,South America,275.72,277.42,271.72,282.02,278.93
+ESP,Spain,Europe,313.29,295.86,256.83,273.62,275.30
+VEN,Venezuela,South America,372.52,316.81,237.04,238.57,264.40
+BGD,Bangladesh,Asia,233.85,238.37,235.10,250.59,254.64
+ARE,United Arab Emirates,Asia,238.78,251.83,248.73,252.05,253.02
+PHL,Philippines,Asia,231.06,238.59,229.02,239.42,246.56
+TKM,Turkmenistan,Asia,198.83,227.50,192.51,206.61,215.05
+MMR,Myanmar,Asia,216.34,216.71,226.11,218.66,209.17
+ETH,Ethiopia,Africa,194.02,205.66,213.61,208.18,209.07
+PER,Peru,South America,188.72,191.92,181.47,194.57,199.36
+UZB,Uzbekistan,Asia,170.47,174.61,181.19,194.52,186.78
+TZA,Tanzania,Africa,163.94,169.45,171.41,175.78,175.73
+UKR,Ukraine,Europe,258.96,247.07,240.01,233.56,168.66
+NLD,Netherlands,Europe,184.51,178.96,162.43,165.85,152.97
+KWT,Kuwait,Asia,140.36,139.66,135.42,143.17,149.05
+BOL,Bolivia,South America,126.57,139.33,131.63,136.95,135.79
+AGO,Angola,Africa,137.90,146.59,133.31,135.50,133.68
+CMR,Cameroon,Africa,128.49,,130.92,130.03,130.65
+SDN,Sudan,Africa,129.31,129.58,128.85,130.31,128.12
+QAT,Qatar,Asia,114.94,116.90,114.85,116.97,122.25
+TCD,Chad,Africa,103.80,106.45,111.71,115.13,119.37
+ZWE,Zimbabwe,Africa,117.21,116.08,113.31,115.04,116.95
+MOZ,Mozambique,Africa,116.60,110.75,107.66,110.19,114.70
+CZE,Czech Republic,Europe,117.42,112.12,102.98,108.03,106.40
+OMN,Oman,Asia,96.57,97.68,93.92,99.78,105.61
+ECU,Ecuador,South America,102.56,103.18,96.41,100.79,103.33
+LBY,Libya,Africa,99.81,104.04,69.21,106.03,102.01
+ZMB,Zambia,Africa,98.97,100.16,96.54,93.93,96.30
+PRY,Paraguay,South America,95.30,97.60,97.82,98.10,95.11
+BEL,Belgium,Europe,107.36,106.56,98.87,102.43,94.67
+MAR,Morocco,Africa,84.19,90.76,86.50,93.20,91.71
+ISR,Israel,Asia,84.82,87.35,84.29,85.23,89.29
+PRK,North Korea,Asia,92.93,99.85,95.52,84.07,86.80
+BLR,Belarus,Europe,90.69,88.92,86.48,86.59,84.22
+MNG,Mongolia,Asia,75.87,79.07,76.07,78.62,81.82
+KEN,Kenya,Africa,66.11,74.03,81.73,78.41,80.54
+KHM,Cambodia,Asia,72.56,75.78,79.06,80.45,77.37
+ROU,Romania,Europe,84.05,82.42,75.74,81.43,76.86
+GRC,Greece,Europe,85.41,79.93,70.49,72.23,72.07
+SGP,Singapore,Asia,64.23,64.95,64.25,67.38,69.59
+NZL,New Zealand,Oceania,71.88,73.02,70.24,70.43,67.54
+IRL,Ireland,Europe,70.58,68.53,66.39,68.96,67.44
+SSD,South Sudan,Unknown,70.74,61.38,70.79,66.86,63.82
+AUT,Austria,Europe,68.66,69.74,64.20,67.22,63.27
+SRB,Serbia,Europe,61.73,61.87,63.02,61.00,62.59
+UGA,Uganda,Africa,58.83,58.27,59.48,61.39,61.17
+CIV,Côte d'Ivoire,Africa,51.92,53.20,53.95,58.79,60.58
+FIN,Finland,Europe,69.82,66.91,61.96,62.03,59.63
+BWA,Botswana,Africa,54.98,,53.96,62.72,59.57
+BFA,Burkina Faso,Africa,56.29,57.23,53.42,59.11,59.22
+HUN,Hungary,Europe,63.29,63.11,61.34,62.56,58.65
+SYR,Syria,Asia,55.72,57.69,58.36,59.14,57.99
+CAF,Central African Republic,Africa,57.39,55.21,55.56,56.29,57.56
+AZE,Azerbaijan,Europe,52.19,54.05,52.10,54.46,56.91
+BHR,Bahrain,Asia,50.27,53.60,53.79,54.72,56.76
+PNG,Papua New Guinea,Asia,52.96,53.04,54.04,54.33,54.53
+PRT,Portugal,Europe,66.97,61.95,56.02,53.82,54.14
+NPL,Nepal,Asia,52.99,52.88,55.21,57.01,53.44
+NER,Niger,Africa,43.65,45.64,47.78,50.22,52.67
+CHL,Chile,South America,49.89,56.06,49.26,50.49,51.89
+MLI,Mali,Africa,42.46,44.53,46.81,48.20,47.22
+SLB,Solomon Islands,Asia,46.28,46.30,46.32,46.34,46.35
+DOM,Dominican Republic,North America,38.08,40.96,39.60,42.59,45.24
+LAO,Laos,Asia,40.62,41.52,44.55,45.24,45.12
+MDG,Madagascar,Africa,40.56,42.18,41.79,42.45,43.22
+SOM,Somalia,Africa,43.25,43.31,43.45,43.29,43.21
+GTM,Guatemala,North America,40.97,42.26,41.01,43.77,42.70
+GIN,Guinea,Africa,37.93,39.73,41.09,40.65,42.58
+DNK,Denmark,Europe,48.79,45.20,42.91,44.29,42.51
+CHE,Switzerland,Europe,44.98,44.76,42.33,44.05,40.67
+NIC,Nicaragua,North America,38.51,38.97,38.96,39.35,39.62
+SEN,Senegal,Africa,33.35,34.42,35.44,37.72,39.49
+TUN,Tunisia,Africa,39.13,38.68,38.28,40.22,39.33
+LKA,Sri Lanka,Asia,36.26,38.82,38.59,38.64,36.49
+URY,Uruguay,South America,34.65,35.05,34.30,37.30,36.28
+JOR,Jordan,Asia,36.10,34.72,32.85,34.11,36.08
+SVK,Slovakia,Europe,39.03,37.01,34.96,37.98,35.30
+SWE,Sweden,Europe,36.26,35.81,34.55,36.80,34.05
+AFG,Afghanistan,Asia,32.87,33.21,34.31,33.00,32.89
+NOR,Norway,Europe,34.45,33.20,31.80,32.11,31.50
+COG,Congo,Unknown,29.59,30.81,30.10,29.00,31.25
+CUB,Cuba,North America,38.85,34.23,29.74,32.59,30.09
+HND,Honduras,North America,27.73,28.77,29.31,29.08,29.36
+YEM,Yemen,Asia,28.22,29.81,28.86,28.85,28.06
+BEN,Benin,Africa,26.77,27.24,27.47,25.77,26.46
+TTO,Trinidad and Tobago,North America,27.87,27.53,25.42,23.37,24.33
+BIH,Bosnia and Herzegovina,Europe,26.10,24.37,24.34,24.00,24.00
+PAN,Panama,North America,21.67,25.06,21.74,23.22,23.98
+LTU,Lithuania,Europe,24.00,24.12,24.12,24.48,23.67
+NAM,Namibia,Africa,21.70,20.72,23.38,24.40,22.12
+GAB,Gabon,Africa,20.67,21.69,21.38,20.83,21.52
+MWI,Malawi,Africa,19.13,20.15,20.82,20.76,21.29
+BGR,Bulgaria,Europe,19.50,17.68,12.58,18.18,19.78
+GUY,Guyana,South America,17.49,17.83,18.72,18.64,19.71
+GEO,Georgia,Africa,16.96,17.52,17.32,17.95,19.17
+TJK,Tajikistan,Asia,15.91,17.31,17.85,18.14,18.59
+LBN,Lebanon,Asia,34.29,34.14,29.23,24.30,18.18
+HRV,Croatia,Europe,17.86,17.95,17.04,17.72,17.96
+GHA,Ghana,Africa,10.69,12.43,16.90,17.05,17.82
+EST,Estonia,Europe,23.48,17.81,14.80,16.05,17.62
+SVN,Slovenia,Europe,17.31,16.87,15.63,15.90,15.51
+LBR,Liberia,Africa,14.97,15.66,15.24,15.22,15.29
+SLV,El Salvador,North America,12.88,13.73,12.40,13.55,14.26
+KGZ,Kyrgyzstan,Asia,14.85,13.66,12.89,14.15,14.24
+MRT,Mauritania,Africa,12.55,13.10,13.49,13.94,13.97
+SUR,Suriname,South America,13.01,13.59,13.56,13.67,13.85
+MDA,Moldova,Europe,13.47,13.65,13.18,14.08,12.51
+GNQ,Equatorial Guinea,Unknown,13.31,12.71,12.76,12.11,11.97
+HTI,Haiti,North America,12.14,12.09,11.86,11.94,11.97
+BRN,Brunei,Asia,10.10,9.90,12.32,12.32,11.70
+LVA,Latvia,Europe,12.34,12.19,11.55,11.72,11.07
+ARM,Armenia,Europe,9.49,9.52,10.09,10.64,10.89
+TGO,Togo,Unknown,8.84,9.23,10.02,10.20,10.87
+MKD,North Macedonia,Europe,10.01,10.90,9.75,9.71,10.45
+SLE,Sierra Leone,Africa,10.29,9.26,9.39,10.44,10.20
+RWA,Rwanda,Africa,8.71,8.89,9.07,9.19,9.55
+JAM,Jamaica,North America,10.39,10.18,7.61,8.22,9.29
+CRI,Costa Rica,North America,8.41,8.39,7.08,8.31,8.66
+CYP,Cyprus,Europe,8.31,8.30,7.88,8.00,8.02
+BDI,Burundi,Unknown,7.60,7.25,7.19,7.64,7.84
+ALB,Albania,Europe,9.43,8.95,8.35,8.55,7.79
+LUX,Luxembourg,Europe,10.03,10.21,8.54,8.89,7.75
+ERI,Eritrea,Africa,6.78,6.85,6.89,6.96,7.05
+MUS,Mauritius,Africa,6.72,6.82,6.41,6.71,6.81
+BLZ,Belize,North America,6.68,6.89,6.87,6.77,6.73
+TLS,East Timor,Asia,6.51,6.54,6.17,6.16,6.25
+GNB,Guinea-Bissau,Africa,4.12,4.21,4.23,4.05,4.18
+LSO,Lesotho,Africa,3.97,3.86,3.38,4.68,4.04
+MNE,Montenegro,Europe,3.78,3.85,3.78,3.80,3.89
+BRB,Barbados,North America,4.00,3.97,3.81,3.76,3.83
+ISL,Iceland,Europe,3.53,3.47,3.27,3.38,3.42
+SWZ,Eswatini,Africa,3.01,3.19,2.97,3.04,3.12
+BHS,Bahamas,North America,2.85,2.95,2.47,2.93,3.04
+GMB,Gambia,Africa,2.67,2.83,2.82,2.69,2.83
+MDV,Maldives,Asia,2.22,2.47,2.26,2.58,2.53
+GRD,Grenada,North America,2.37,2.41,2.37,2.41,2.43
+MLT,Malta,Europe,2.04,2.14,2.08,2.07,2.23
+DJI,Djibouti,Africa,1.45,1.52,1.44,1.52,1.60
+ATG,Antigua and Barbuda,North America,1.29,1.34,1.34,1.42,1.50
+SYC,Seychelles,Africa,0.76,0.76,0.77,0.78,0.83
+LCA,Saint Lucia,North America,0.72,0.72,0.70,0.74,0.77
+BTN,Bhutan,Asia,1.10,0.96,0.59,0.84,0.75
+COM,Comoros,Africa,0.48,0.51,0.57,0.70,0.73
+CPV,Cabo Verde,Africa,0.67,0.74,0.63,0.66,0.70
+VUT,Vanuatu,Asia,0.64,0.63,0.68,0.69,0.69
+WSM,Samoa,Asia,0.68,0.68,0.64,0.68,0.66
+AND,Andorra,Europe,0.62,0.62,0.51,0.54,0.55
+STP,São Tomé and Principe,Africa,0.40,0.40,0.40,0.40,0.41
+KNA,Saint Kitts and Nevis,North America,0.35,0.35,0.34,0.34,0.36
+VCT,Saint Vincent and the Grenadines,North America,0.33,0.31,0.33,0.33,0.34
+TON,Tonga,Asia,0.28,0.31,0.34,0.34,0.34
+PLW,Palau,Asia,0.24,0.25,0.25,0.25,0.24
+DMA,Dominica,North America,0.22,0.23,0.21,0.22,0.22
+MHL,Marshall Islands,Asia,0.20,0.20,0.20,0.20,0.20
+FSM,Micronesia,Asia,0.19,0.20,0.20,0.20,0.19
+LIE,Liechtenstein,Europe,0.18,0.18,0.18,0.18,0.19
+KIR,Kiribati,Asia,0.10,0.11,0.10,0.11,0.10
+COK,Cook Islands,Asia,0.09,0.09,0.08,0.08,0.08
+NRU,Nauru,Asia,0.06,0.06,0.06,0.06,0.06
+TUV,Tuvalu,Asia,0.02,0.02,0.02,0.02,0.02
+NIU,Niue,Asia,0.01,0.01,0.01,0.01,0.01
+FJI,Fiji,Asia,-0.49,-0.37,-0.81,-0.79,-0.79
